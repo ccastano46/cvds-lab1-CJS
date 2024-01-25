@@ -1,5 +1,8 @@
 ----------------------- feerratas.txt -------------------
 FE DE ERRATAS
 
-* El término de la pagima (por lo general) 15 es impresión.
+
+* El término de la pagina (por lo general) 15 es impresión.
+
+
 ---------------------------------------------------------

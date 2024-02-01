@@ -15,11 +15,12 @@ Por lo tanto su contenido no es útil
 ## Enlace
 <https://www.w3schools.com/java/>
 ## Imagen
-![] (https://th.bing.com/th/id/R.73137e1a800bb5537a0aad03e5a1d936?rik=EQELZo5c3MHNaw&riu=http%3a%2f%2fdescargarimagenesgratis.org%2fwp-content%2fuploads%2f2014%2f09%2fFotos-de-perros-jugando-7.jpg&ehk=GsRGxeXCFkr7Lx9JcaPIcdkQcCruVWkJtUnE%2f2J8ASA%3d&risl=&pid=ImgRaw&r=0)
+![](https://th.bing.com/th?id=OIP.cxN-GoALtVN6Cq0D5aHZNgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
+
+
 
 ## Fragmentos de código
-´´´
-if (x=1){
+´´´if (x=1){
     return True;
-}
-´´´
+    }
+    ´´´

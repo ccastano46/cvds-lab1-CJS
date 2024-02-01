@@ -14,7 +14,7 @@
 4. Teoría de la Programación *TPRO*
 5. Marketing 4.0 *MKT4*.
 ## Cosas Random
-![](https://www.google.com/search?sca_esv=ab1ad2f69166e203&rlz=1C1UUXU_esCO1094CO1094&q=italia&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiPlNPno4uEAxVYRjABHZMPC3MQ0pQJegQIDRAB&biw=1280&bih=585&dpr=1.5#imgrc=KK8GP2M186O_BM)
+![]([https://www.google.com/search?sca_esv=ab1ad2f69166e203&rlz=1C1UUXU_esCO1094CO1094&q=italia&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiPlNPno4uEAxVYRjABHZMPC3MQ0pQJegQIDRAB&biw=1280&bih=585&dpr=1.5#imgrc=KK8GP2M186O_BM](https://images.app.goo.gl/z2eiFn6P2ejMuEfCA)https://images.app.goo.gl/z2eiFn6P2ejMuEfCA)
 
 <https://senorasamaan.com/>
 

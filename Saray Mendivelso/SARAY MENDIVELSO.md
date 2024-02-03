@@ -24,7 +24,7 @@ Yo soy _Saray Alieth Mendivelso Gonzalez_ y les hablare un poco mas de mí
 **Link de mi perfil de instagram**
 -  [SARAY MENDIVELSO](https://www.instagram.com/gonsaray/)
 
-![](https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/418996973_1289781508366284_3236229763754993440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=510075&_nc_ohc=fvcIy7Xfkm8AX-gKNGD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-ord5-1.xx&oh=03_AdQ-yOfOXPI6zlU_Qyb0Qzn8o4HCCuAsgYpXvcQm4LoKig&oe=65E51A87)
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/422874816_2487777661393545_7847348292018302505_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=RXW4T_1haRUAX9C6tPW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTL8vvr9bgETkYIonF7zptUwl_bxRIprBKetpjY75TQYA&oe=65E55989)
 
 _Dado que soy ingeniera de sistemas les quiero compartir un código basico hecho en python que te pinta una flor_
 
@@ -51,4 +51,15 @@ for i in range (16):
 
 done()
 ```
+
+
+
+**Anexo el ScreenShot de toda la realizacion de los puntos de Learn Git Branching**
+
+
+
+
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/422023512_2061169184283037_2193399830197616130_n.png?stp=dst-png_p403x403&_nc_cat=106&ccb=1-7&_nc_sid=510075&_nc_ohc=ZblyWEOYWA4AX_FbSps&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQvppzF2cBybWEbRWtaE8DkCCnxeA-s1325r9HmqOzwAQ&oe=65E56A4C)
+
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/420376291_849949526806546_3144802081945603965_n.png?stp=dst-png_p403x403&_nc_cat=103&ccb=1-7&_nc_sid=510075&_nc_ohc=MIINFjYXHPQAX9rHGyh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTzmcMOixicapCdlUeHoKCTM4sNDwcJOm7HAlKfBBzTyg&oe=65E58745)
 

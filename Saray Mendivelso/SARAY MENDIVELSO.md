@@ -10,55 +10,45 @@ Yo soy _Saray Alieth Mendivelso Gonzalez_ y les hablare un poco mas de mí
     LUGAR DE NACIMIENTO: Tunja, Boyaca.
     CARRERA: Ingenieria de sistemas.
     UNIVERSIDAD: Escuela Colombiana De Ingenieria Julio Garavito.
+    NIVEL DE INGLES: B1.
     
 **HOBBIES**
 - Me gusta bastante patinar
 - Diseñar
 - Ver series
-- La fotografia 
+- La fotografia
+- Leer acerca de la tecnología
 
 
 
-## Markdown
+**Link de mi perfil de instagram**
+-  [SARAY MENDIVELSO](https://www.instagram.com/gonsaray/)
 
-Markdown es un lenguaje de marcado que permite redactar cualquier tipo de documento sin depender del formato aplicado por ciertos editores en concreto. 
+![](https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/418996973_1289781508366284_3236229763754993440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=510075&_nc_ohc=fvcIy7Xfkm8AX-gKNGD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-ord5-1.xx&oh=03_AdQ-yOfOXPI6zlU_Qyb0Qzn8o4HCCuAsgYpXvcQm4LoKig&oe=65E51A87)
 
-Lo único que necesitarás para abrir un documento Markdown es un editor de texto plano.
+_Dado que soy ingeniera de sistemas les quiero compartir un código basico hecho en python que te pinta una flor_
 
-El lenguaje Markdown fue creado por [John Gruber](https://daringfireball.net).
+```
+from turtle import*
+import colorsys
 
-## Cómo usar el editor
 
-Para utilizar Editor Markdown, redacta tu documento usando la sintaxis Markdown en el panel de la izquierda. Puedes ver la representación final HTML en tiempo real en el panel de la derecha.
+speed (0)
+bgcolor("black")
+h=0
 
-Actualmente, Editor Markdown es compatible con:
+for i in range (16):
+    for j in range (18):
+        c=colorsys.hsv_to_rgb(h,0.9,1)
+        color(c)
+        h+=0.005
+        rt(90)
+        circle(150-j*6,90)
+        lt(90)
+        circle(150-j*6,90)
+        rt(180)
+    circle(40,24)
 
-*  GitHub
-* Dropbox
-* Bitbucket
-
-Desde Editor Markdown también puedes redactar artículos en Medium.
-
-Actualmente puedes exportar tus archivos a estos formatos:
-
-* PDF
-* HTML
-* Markdown
-
-## Tutoriales de Markdown
-
-Para aprender a usar Markdown puedes consultar los siguientes tutoriales:
-
-[Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
-[Guía definitiva de Markdown](https://neoguias.com/markdown)
-
-Si te gusta **Editor Markdown** y quieres publicar tu tutorial en esta lista, envía un mensaje a edu@edulazaro.com con tu nombre, el nombre del tutorial y la URL del tutorial.
-
-## Novedades
-
-Novedades de la última versión:
-
-* Puedes arrastrar y soltar documentos Markdown o archivos HTML en el editor.
-* También puedes incluir imágenes, aunque para ello deberás inlazar tu cuente de Dropbox.
-
+done()
+```
 

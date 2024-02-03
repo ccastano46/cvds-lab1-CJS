@@ -24,7 +24,7 @@ Yo soy _Saray Alieth Mendivelso Gonzalez_ y les hablare un poco mas de mí
 **Link de mi perfil de instagram**
 -  [SARAY MENDIVELSO](https://www.instagram.com/gonsaray/)
 
-![](https://scontent.xx.fbcdn.net/v/t1.15752-9/422874816_2487777661393545_7847348292018302505_n.png?stp=dst-png_p403x403&_nc_cat=107&ccb=1-7&_nc_sid=510075&_nc_ohc=RXW4T_1haRUAX9C6tPW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTL8vvr9bgETkYIonF7zptUwl_bxRIprBKetpjY75TQYA&oe=65E55989)
+![](https://scontent.xx.fbcdn.net/v/t1.15752-9/418996973_1289781508366284_3236229763754993440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=510075&_nc_ohc=fvcIy7Xfkm8AX-gKNGD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQJNvWYYfwNQEXQM_Kgpb_NocfRzNdFlEDheCcDPB4f1g&oe=65E552C7)
 
 _Dado que soy ingeniera de sistemas les quiero compartir un código basico hecho en python que te pinta una flor_
 

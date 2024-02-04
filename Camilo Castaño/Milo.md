@@ -20,7 +20,7 @@
 
 ##Curso Git
 ![](https://drive.google.com/file/d/19hwDnYjk33IGZh_H9r8PjDpKJldLIlCP/view?usp=drive_link)
-![](https://drive.google.com/file/d/10098q4kd_qRkrskyD-L7m-BJw7y2B8E6/view?usp=drive_link)
+![](principal.png)
 
 
 

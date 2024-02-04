@@ -19,7 +19,7 @@
 <https://senorasamaan.com/>
 
 ##Curso Git
-![](C:\Users\USUARIO\Downloads)
+![](principal.png)
 
 
 

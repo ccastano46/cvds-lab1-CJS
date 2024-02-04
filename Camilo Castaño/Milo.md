@@ -19,7 +19,8 @@
 <https://senorasamaan.com/>
 
 ##Curso Git
-![](principal.png)
+![](https://drive.google.com/file/d/19hwDnYjk33IGZh_H9r8PjDpKJldLIlCP/view?usp=drive_link)
+
 
 
 
